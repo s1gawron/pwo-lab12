@@ -1,4 +1,10 @@
-/Users/eizodev/uczelnia/pwo/lab04/src/main/java/pwo/SequenceTools.java
-/Users/eizodev/uczelnia/pwo/lab04/src/main/java/pwo/FibonacciGenerator.java
-/Users/eizodev/uczelnia/pwo/lab04/src/main/java/pwo/Zadanie1.java
-/Users/eizodev/uczelnia/pwo/lab04/src/main/java/pwo/utils/SequenceGenerator.java
+/Users/eizodev/uczelnia/pwo/lab05/src/main/java/pwo/app/SeqToFileApp.java
+/Users/eizodev/uczelnia/pwo/lab05/src/main/java/pwo/app/SeqToOutApp.java
+/Users/eizodev/uczelnia/pwo/lab05/src/main/java/pwo/app/Sequence.java
+/Users/eizodev/uczelnia/pwo/lab05/src/main/java/pwo/utils/SequenceGenerator.java
+/Users/eizodev/uczelnia/pwo/lab05/src/main/java/pwo/seq/Generator.java
+/Users/eizodev/uczelnia/pwo/lab05/src/main/java/pwo/seq/TribonacciGenerator.java
+/Users/eizodev/uczelnia/pwo/lab05/src/main/java/pwo/seq/LucasGenerator.java
+/Users/eizodev/uczelnia/pwo/lab05/src/main/java/pwo/seq/SeqType.java
+/Users/eizodev/uczelnia/pwo/lab05/src/main/java/pwo/utils/SequenceTools.java
+/Users/eizodev/uczelnia/pwo/lab05/src/main/java/pwo/seq/FibonacciGenerator.java
